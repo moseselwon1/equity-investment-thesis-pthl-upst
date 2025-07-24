@@ -3,7 +3,7 @@ Full Excel-based stock market investment research for PTHL & UPST, including liv
 
 Produced by Moses & Theodore | July 2025
 
-This project is a complete Excel-based stock market investment thesis on two stocks:  
+This project is a complete Excel-based, & a touch of python, stock market investment thesis on two stocks:  
 - PTHL (Precision Oncology Play)  
 - UPST (AI-Driven Lending Platform)
 
@@ -19,9 +19,11 @@ Files Included
 - `Equity Investment Research.xlsx` – Full model and report
 - Screenshots of all 8 Clear Sections
 
-In this project we combined both technical and narrative reasoning to produce a trading / analyst type report. It combines structure, price momentum, and institutional-style reporting as well as live trading insights and P&L
+In this project we combined both technical and narrative reasoning to produce a trading / analyst type report. It combines structure, price momentum, and institutional-style reporting as well as live trading insights and P&L: shows that we have conviction on our research 
 
- produced by 
+ Produced by 
 - Moses  
 - Theodore  
 - [T&M Financial Chronicles](https://tmfinancialchronicles.substack.com) (Blog)
+- linkedin: www.linkedin.com/in/moseselwon007  |   Lets network!
+
